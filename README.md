@@ -13,11 +13,3 @@ Simula a movimentação de 4 peças do xadrez utilizando diferentes recursos de 
 - **Rainha** → 8 casas para a esquerda (recursão)
 - **Cavalo** → Movimento em L (2 para cima e 1 para a direita, com `for`, `while`, `continue` e `break`)
 
----
-
-## ⚙️ Como executar
-
-### 1. Compilar o código
-
-```bash
-gcc main.c -o xadrez
